@@ -136,6 +136,8 @@
     <ClCompile Include="17.一维数组名.cpp" />
     <ClCompile Include="18.五只小猪称体重.cpp" />
     <ClCompile Include="19.数组元素逆置输出.cpp" />
+    <ClCompile Include="20.冒泡排序.cpp" />
+    <ClCompile Include="21.二维数组案列-统计考试成绩.cpp" />
     <ClCompile Include="7.switch语句.cpp" />
     <ClCompile Include="8.while循环.cpp" />
     <ClCompile Include="9.猜数字游戏.cpp" />
